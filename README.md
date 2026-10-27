@@ -1,4 +1,4 @@
-# RappiPlus: rentabilidad, funnel y experimento A/B
+# RappiPlus: Rentabilidad, funnel y experimento A/B
 
 Caso de negocio simulado del bootcamp de Data Analytics de TripleTen. Los datos son ficticios.
 
